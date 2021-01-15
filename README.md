@@ -61,7 +61,7 @@ Note: All images will be shown below their respective bullet. The images will sh
    - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
 
 *** Insert image candidate_votes
-![candidate_votes](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+![candidate_votes_1](https://github.com/tateml0000/Election_Analysis/blob/main/candidate_votes_1.png)
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
    - Diana Degette, who received 73.8% of the votes and 272,892 total votes.
