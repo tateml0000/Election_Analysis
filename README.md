@@ -40,8 +40,7 @@ Note: All images will be shown below their respective bullet. The images will sh
 
 - How many votes were cast in this congressional election?
    - 369,711 votes were cast in this election.
-   
-*** Insert image total_votes
+
 ![total_votes](https://github.com/tateml0000/Election_Analysis/blob/main/total_votes.png)
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -49,7 +48,6 @@ Note: All images will be shown below their respective bullet. The images will sh
    - Denver county had 82.8% of the votes made there and 306,055 total votes made there.
    - Arapahoe county had 6.7% of the votes made there and 24,801 total votes made there.
 
-*** Insert image county_votes
 ![county_votes](https://github.com/tateml0000/Election_Analysis/blob/main/county_votes.png)
 
 - Which county had the largest number of votes?
@@ -60,7 +58,6 @@ Note: All images will be shown below their respective bullet. The images will sh
    - Diana DeGette received 73.8% of the votes and 272,892 total votes.
    - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
 
-*** Insert image candidate_votes
 ![candidate_votes_1](https://github.com/tateml0000/Election_Analysis/blob/main/candidate_votes_1.png)
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
