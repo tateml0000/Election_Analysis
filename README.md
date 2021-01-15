@@ -36,7 +36,35 @@ The analysis of the election show that:
 The purpose of this audit was to aid Tom, a member of the Colorado Board of elections employee, in validating the election results for the U.S. Congressional Precinct in Colorado. The 3 methods of voting we gathered were Mail-in ballots, punch cards, and Direct Recording Electronic votes. Our goal is to generate a vote count report to certify the U.S. Congressional race by using python to calculate total votes cast, number of votes per candidate, percentage of votes per canddiate, and the ultimate winner of the election.
    
 ## Election Audit Results
+Note: All images will be shown below their respective bullet. The images will show the python code for tallying votes by adding 1 vote to the counter while iterating through each row. In the case of the candidates and counties, the code only added a vote to the tally if the county associated with it was correct. For the largest number of county votes and the winning candidate there are no images of code shown. Since our data set is so small, this could be seen by looking at the results themselves, but otherwise, this code simply compared each vote count for its respective county or candidate and displayed the largest value it could find.
 
+- How many votes were cast in this congressional election?
+   - 369,711 votes were cast in this election.
+   
+*** Insert image total_votes
+![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+   - Jefferson county had 10.5% of the votes made there and 38,855 total votes made there.
+   - Denver county had 82.8% of the votes made there and 306,055 total votes made there.
+   - Arapahoe county had 6.7% of the votes made there and 24,801 total votes made there.
+
+*** Insert image county_votes
+![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+
+- Which county had the largest number of votes?
+   - Denver county had the largest number of votes made with 82.8% of the votes made in that country, totaling 306,055 votes.
+
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+   - Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.
+   - Diana DeGette received 73.8% of the votes and 272,892 total votes.
+   - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
+
+*** Insert image candidate_votes
+![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+   - Diana Degette, who received 73.8% of the votes and 272,892 total votes.
 
 ## Election Audit Summary
 With our current code, assuming a similar format, we have the ability to determine the U.S. Congressional election winner regardless of the number of candidates as well as number of votes, but we have the ability to improve and expand it
