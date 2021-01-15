@@ -17,18 +17,20 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Summary
 The analysis of the election show that:
 
-- There were "x" votes case in the election.
+- There were 369,711 votes case in the election.
 
 - The candidates were:
-  -
-  -
-  -
+   - Charles Casper Stockham
+   - Diana DeGette
+   - Raymon Anthony Doane
+
  - The candidate results were:
- -
- -
- -
+   - Charles: 85,213 votes (23.0%)
+   - Diana: 272,892 votes (73.8%)
+   - Raymon: 11,606 (3.1%)
+
 - The winner of the election was:
-  - 
+  - Diana Degette with a total of 73.8% of the votes.
 
 ## Challenge Overview
 
