@@ -32,6 +32,10 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana Degette, who received 73.8% of the votes and 272,892 total votes.
 
-## Challenge Overview
+## Overview of Election Audit
+   The purpose of this audit was to aid Tom, a member of the Colorado Board of elections employee, in validating the election results for the U.S. Congressional Precinct in Colorado. The 3 methods of voting we gathered were Mail-in ballots, punch cards, and Direct Recording Electronic votes. Our goal is to generate a vote count report to certify the U.S. Congressional race by using python to calculate total votes cast, number of votes per candidate, percentage of votes per canddiate, and the ultimate winner of the election.
+   
+## Results of Election Audit
 
-## Challenge Summary
+
+## Summary of Election Audit
