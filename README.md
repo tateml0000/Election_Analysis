@@ -42,7 +42,7 @@ Note: All images will be shown below their respective bullet. The images will sh
    - 369,711 votes were cast in this election.
    
 *** Insert image total_votes
-![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+![total_votes](https://github.com/tateml0000/Election_Analysis/blob/main/total_votes.png)
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
    - Jefferson county had 10.5% of the votes made there and 38,855 total votes made there.
@@ -50,7 +50,7 @@ Note: All images will be shown below their respective bullet. The images will sh
    - Arapahoe county had 6.7% of the votes made there and 24,801 total votes made there.
 
 *** Insert image county_votes
-![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+![county_votes](https://github.com/tateml0000/Election_Analysis/blob/main/county_votes.png)
 
 - Which county had the largest number of votes?
    - Denver county had the largest number of votes made with 82.8% of the votes made in that country, totaling 306,055 votes.
@@ -61,7 +61,7 @@ Note: All images will be shown below their respective bullet. The images will sh
    - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
 
 *** Insert image candidate_votes
-![county_name](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
+![candidate_votes](https://github.com/tateml0000/Election_Analysis/blob/main/county_name.png)
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
    - Diana Degette, who received 73.8% of the votes and 272,892 total votes.
