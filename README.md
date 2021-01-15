@@ -63,4 +63,7 @@ Another major way our code could be updated would be to include a column for con
 
 In this picture we are using a for loop to cycle through each candidate and county and then we use an if statement to make sure there are no overlaps and begin to talley votes. To adjust this we would need to initalize a new dictionary as candidate_votes as well as have it talley only votes that relate to a specific candidate in a certain district. The likely hood of there being two candidates with the same name is very low, but to avoid any possible error we would still need to verify both the name and the district. If we only verified the name, we could run into problems with duplicate names, and if we only verified the district, then the vote count for each candidate would be equal to the total vote count. 
 
-   
+   ![2017 Results](https://github.com/tateml0000/stock-analysis/blob/main/2017%20results.png)
+   ![2017 Results](https://github.com/tateml0000/stock-analysis/blob/main/2017%20results.png)
+   ![2017 Results](https://github.com/tateml0000/stock-analysis/blob/main/2017%20results.png)
+   ![2017 Results](https://github.com/tateml0000/stock-analysis/blob/main/2017%20results.png)
