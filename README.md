@@ -16,7 +16,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
+
 - There were "x" votes case in the election.
+
 - The candidates were:
   -
   -
